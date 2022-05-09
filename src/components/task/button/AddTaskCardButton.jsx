@@ -15,7 +15,7 @@ export const AddTaskCardButton = ({ taskCardsList, setTaskCardsList }) => {
   };
   return (
     <div className="addTaskCardButtonArea">
-      <button className="addDTaskCardButton" onClick={addTaskCard}>
+      <button className="addTaskCardButton" onClick={addTaskCard}>
         +
       </button>
     </div>

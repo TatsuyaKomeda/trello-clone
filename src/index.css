@@ -99,7 +99,7 @@ header {
     transition: all 0.3s;
 }
 
-.addDTaskCardButton:hover {
+.addTaskCardButton:hover {
     box-shadow: none;
     transform: translate(3px, 3px);
 }
